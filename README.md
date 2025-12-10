@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+My name is Mohammed
+- 🔭 I’m currently a student in 1337 School
 <!--
 **mabar04/mabar04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
